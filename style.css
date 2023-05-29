@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+    background-color: #1e1e8a;
+    margin: 70px;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+.titulo1 {
+    background-color: rgb(6, 177, 177);
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 26px;
+    margin-left: 15px;
+
+}
+.cabeça {
+    text-align: center;
+
+}
